@@ -1,4 +1,4 @@
-# Hot Wheels API
+# FastAPI Hot Wheels API
 
 ![CC0 Public Domain](https://github.com/angelfloreso/diecast-models-api/blob/main/resources/banner.jpg?raw=true)
 ![Coverage](.github/badges/jacoco.svg)
@@ -6,6 +6,8 @@
 ![Test](https://github.com/angelfloreso/diecast-models-api/actions/workflows/tests-embedded.yaml/badge.svg)
 
 This is a simple API code example for consume Hot Wheels Diecast database 
+
+[Railway inctance](https://diecast-models-api-production.up.railway.app/docs)
 
 Features:
 - FastAPI
