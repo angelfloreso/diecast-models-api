@@ -1,6 +1,6 @@
 # Hot Wheels API
 
-![CC0 Public Domain](https://raw.githubusercontent.com/angelfloreso/diecast-models-api/resources/banner.jpg)
+![CC0 Public Domain](https://github.com/angelfloreso/diecast-models-api/blob/main/resources/banner.jpg?raw=true)
 ![Coverage](.github/badges/jacoco.svg)
 ![Branch](.github/badges/branches.svg)
 ![Test](https://github.com/angelfloreso/diecast-models-api/actions/workflows/tests-embedded.yaml/badge.svg)
