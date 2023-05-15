@@ -1,4 +1,4 @@
-# hot-wheels-models-api
+# Hot Wheels API
 
 ![CC0 Public Domain](https://raw.githubusercontent.com/angelfloreso/hot-wheels-models-api/main/src/main/resources/banner.jpg)
 ![Coverage](.github/badges/jacoco.svg)
