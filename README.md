@@ -20,4 +20,4 @@ Features:
 - Docker compose files for API and DB Only
 - Railway Deploy
 
-[info](https://testdriven.io/blog/fastapi-mongo/)
+[Info](https://testdriven.io/blog/fastapi-mongo/)
